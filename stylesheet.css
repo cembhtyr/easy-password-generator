@@ -1,11 +1,10 @@
 * {
-	font-family:Verdana;
-	
+	font-family:Arial;
 }
 
 body {
 	margin:0 auto;
-	background-color: #292929;
+	background-color: #ebebeb;
 }
 
 input {
@@ -26,10 +25,9 @@ output {
 	margin-right:auto;
 	margin-left:auto;
 	margin-bottom:5px;
-	max-width:400px;
-	border:1px solid #d9d9d9;
+	border-top:1px solid #141414;
+	border-bottom:1px solid #141414;
 	text-align:center;
-	border-radius:3px;
 	overflow:auto;
 	height: 50px;
 	font-size: 26px;
@@ -62,28 +60,24 @@ button:active {
 
 .header {
 	height:35px;
-	background-color:#254e58;
+	background-color:#141414;
 	color:white;
 	font-size:26px;
 	text-align:center;
 	padding:10px;
-	border-radius:5px 5px 0px 0px;
 	box-shadow: 0px 0px 2px 0px black;
 	opacity: 0.8;
 }
 
-.outerContainer {
-	max-width:500px;
+.mainContainer {
 	margin:0 auto;
-	margin-top: 10px;
-	border-radius:5px;
-	box-shadow: 0px 0px 2px 0px black;
 	padding-bottom:5px;
 	height: 300px;
 }
 
-p {
+h2, h3 {
 	text-align:center;
+	color: #141414;
 }
 
 
