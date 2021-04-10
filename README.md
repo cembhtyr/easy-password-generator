@@ -1,2 +1,4 @@
 # easy-password-generator
-This is an easy password generator.
+This is my easy password generator.
+
+## 10.04.2021
